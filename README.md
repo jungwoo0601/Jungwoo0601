@@ -27,15 +27,16 @@ C#, Unity, Html, Css, JavaScript, React, Python
 
 ### 🚀 Projects
 
-| Period | Title | Description | Experience | Tech Stack |
-| ------ | ----- | ----------- | ---------- | ---------- |
-
-| 2024.03.12 ~ 진행중 | SUCAT | 게임, 친구추가, 채팅을 결속시키긴 친구형 대학교 커뮤니티 | 한이음 ICT 멘토링 | Html, Css, JavaScript, React |
-| 2024.03.10 ~ 진행중 | 스스Law | 법률 문제를 스스로 해결할 수 있도록 하는 법률 상담 챗봇 서비스 | 한이음 ICT 멘토링 | Html, Css, JavaScript, React |
-| 2023.07.01 ~ 2024.02.01 | 방학 프로젝트 - Traffickey (공포방탈출 유니티게임) | 협업 경험을 위한 첫 Unity프로젝트 시작 | AI/Sw 대회 팀 프로젝트 | C#, Unity |
+| Period                  | Title                                             | Description                                                    | Experience             | Tech Stack                         |
+| ----------------------- | ------------------------------------------------- | -------------------------------------------------------------- | ---------------------- | ---------------------------------- |
+| 2024.03.12 ~ 진행중     | SUCAT                                             | 게임, 친구추가, 채팅을 결속시키긴 친구형 대학교 커뮤니티       | 한이음 ICT 멘토링      | Html, Css, JavaScript, React React |
+| 2024.03.10              | 스스Law                                           | 법률 문제를 스스로 해결할 수 있도록 하는 법률 상담 챗봇 서비스 | 한이음 ICT 멘토링      | Html, Css, JavaScript, React       |
+| 2023.07.01 ~ 2024.02.01 | 방학 프로젝트 - Traffickey(공포방탈출 유니티게임) | 협업 경험을 위한 첫 Unity프로젝트 시작                         | AI/Sw 대회 팀 프로젝트 | C#, Unity                          |
 
 ---
 
 ### 🏅 Achievements
 
 ![achievement1](AI/SW 프로젝트 우수상 수상)
+![achievement2](https://path_to_achievement2_image)
+![achievement3](https://path_to_achievement3_image)
