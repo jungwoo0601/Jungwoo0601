@@ -1,4 +1,4 @@
-# Welcome to jungwoo's develop space 👋
+👋 Welcome to my place 👋
 
 💡 **리액트 프론트엔드를 공부하는 데이터과학 전공 대학생입니다.**
 
