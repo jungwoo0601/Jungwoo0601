@@ -6,20 +6,17 @@
   
 👋**안녕하세요 컴퓨터SW 전공 대학생입니다. <br> 현재는 프론트엔드 개발자로서 꿈을 지니고 열심히 노력하고 있습니다**
 
-📜 **기록:**  
-📧 **Email:** pjw1346799@naver.com
-
 ---
 
 
-
+## Github Stats
 ![Jungwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungwoo0601&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjw1346799)](https://solved.ac/pjw1346799/)
 
 
 ---
 
-# 💪Skills
+## 💪 Tech Stack
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -29,7 +26,7 @@
 
 ---
 
-# 🚀Project
+## 🚀 Project
 
 | Period                  | Title                                                                                                                                             | Description                                                                                | Experience                   | Tech Stack                                                                                    |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------- | --------------------------------------------------------------------------------------------- |
@@ -39,10 +36,10 @@
 
 ---
 
-# 🏅 Achievements
+## 🏅 Achievements
 
 ---
 
-# 📧 Contacts
+## 📧 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pjw1346799@gmail.com)](mailto:pjw1346799@gmail.com)
 
