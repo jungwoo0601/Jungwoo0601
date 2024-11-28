@@ -4,7 +4,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JungwooPark&fontSize=28&fontAlign=88&fontAlignY=40&desc=@jungwoo0601&descAlign=91&color=gradient)
 
   
-👋**안녕하세요 컴퓨터SW 전공 대학생입니다. <br> 현재는 프론트엔드 개발자로서 꿈을 지니고 열심히 노력하고 있습니다**
+👋 **안녕하세요 컴퓨터SW 전공 대학생입니다. <br> 현재는 프론트엔드 개발자로서 꿈을 지니고 열심히 노력하고 있습니다**
 
 ---
 
