@@ -9,7 +9,7 @@
 ---
 
 
-## Github Stats
+## Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjw1346799)](https://solved.ac/pjw1346799/)
 
 
