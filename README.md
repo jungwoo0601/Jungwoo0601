@@ -9,7 +9,7 @@
 ---
 
 
-## Solved.ac
+## 🏅 Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjw1346799)](https://solved.ac/pjw1346799/)
 
 
@@ -32,10 +32,6 @@
 | 2024.05.12 <br>~ <br> 2024.08.20 (지속적으로 리팩토링 중)      |   [SUCAT](https://github.com/Suwon-University-Community-SUCAT/Sucat-Server)                                | 게임, 친구/채팅을 접목시킨 친목형 대학교 커뮤니티 서비스   | FE 팀장  | Html, Css, JavaScript, React <br> Web Socket, WebClient, <br>AWS(EC2, RDS, S3, Route 53, ELB ...)                                                            |
 | 2024.05.10 <br>~ <br> 2024.09.02 (지속적으로 리팩토링 중)      | [스스Law](https://github.com/HanIum2024-AILawyer/SSL-Server)                                           | 법률 문제를 스스로 해결할 수 있도록 도움을 제공하는 법률 상담 챗봇 서비스     | FE 팀장, <br> 개발 동아리 Semicolon  | Html, Css, JavaScript, React, WebSocket <br>AWS(EC2, RDS, ELB, DNS, IAM)                              |
 | 2023.06.01 <br>~<br> 2024.02.01 | [방학 프로젝트 - Traffickey(공포방탈출 유니티게임개발)](https://github.com/Vacation-project/Server?tab=readme-ov-file)                                   | 협업 경험을 위한 첫 Unity프로젝트 시작.<br> <br> 개발자 : 박정우,김종민<br> 디자이너 :  <br> 작곡 : 정은혜, 박민서  |   팀장 역할로 AI/SW 교내 공모전 참가, 우수상 수상   |  C#, Unity                                                                       |
-
----
-
-## 🏅 Achievements
 
 ---
 
