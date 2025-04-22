@@ -34,6 +34,28 @@
 
 ---
 
+<div style="text-align: center;">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏅 Stats</h2>
+  <div style="display: flex; justify-content: center; align-items: stretch; gap: 10px; flex-wrap: wrap;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=rogie&bg_color=180,326fd2,00000000&title_color=ffffff&text_color=ffffff"
+      style="flex: 1; min-width: 300px; max-width: 100%; height: auto; object-fit: cover; border-radius: 10px;"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogie&layout=compact&bg_color=180,326fd2,00000000&title_color=ffffff&text_color=ffffff"
+      style="flex: 1; min-width: 300px; max-width: 100%; height: auto; object-fit: cover; border-radius: 10px;"
+    />
+  </div>
+</div>
+
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=koo-rogie&utm_content=line">
+    <img width="500" height="400" src="https://render.gitanimals.org/lines/koo-rogie"/>
+  </a>
+</div>
+
+---
+
 ## 🚀 Project
 
 | Period                  | Title                                                                                                                                             | Description                                                                                | Experience                   | Tech Stack                                                                                    |
