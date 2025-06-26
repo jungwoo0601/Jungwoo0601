@@ -44,7 +44,7 @@
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=koo-jungwoo0601&utm_content=line">
-    <img width="500" height="400" src="https://render.gitanimals.org/lines/jungwoo0601"/>
+    <img width="300" height="250" src="https://render.gitanimals.org/lines/jungwoo0601"/>
   </a>
 </div>
 
