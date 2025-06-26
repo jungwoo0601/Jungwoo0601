@@ -50,12 +50,6 @@
 
 ---
 
-## 🏅 Solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjw1346799)](https://solved.ac/pjw1346799/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=pjw1346799&theme=warm)
-
----
-
 ## 🚀 Project
 
 | Period                  | Title                                                                                                                                             | Description                                                                                | Experience                   | Tech Stack                                                                                    |
