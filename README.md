@@ -9,12 +9,6 @@
 ---
 
 
-## 🏅 Solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjw1346799)](https://solved.ac/pjw1346799/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=pjw1346799&theme=warm)
-
----
-
 ## 💪 Tech Stack
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
@@ -53,6 +47,12 @@
     <img width="500" height="400" src="https://render.gitanimals.org/lines/jungwoo0601"/>
   </a>
 </div>
+
+---
+
+## 🏅 Solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjw1346799)](https://solved.ac/pjw1346799/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=pjw1346799&theme=warm)
 
 ---
 
