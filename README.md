@@ -1,4 +1,4 @@
-
+<img width="1623" height="149" alt="image" src="https://github.com/user-attachments/assets/a2ffcc54-16f6-4de6-bd02-234e31d66f03" />
  <div align="center">
     
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JungwooPark&fontSize=28&fontAlign=88&fontAlignY=40&desc=@jungwoo0601&descAlign=91&color=gradient)
@@ -56,6 +56,7 @@
 
 | Period                  | Title                                                                                                                                             | Description                                                                                | Experience                   | Tech Stack                                                                                    |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------- | --------------------------------------------------------------------------------------------- |
+| 2025.07.10 <br>~ <br> 2025.08.07    |   [펀드림(Fundream)](https://github.com/FRONTENDBOOTCAMP-13th/Final-11-Cutie)                                | 목표 금액 달성 시, 제작이 이루어지는 크라우드 펀딩 플랫폼   | FE | Html5, JavaScript, React, Typescript, Next, Tailwindcss, Zustand, MONGODB, Bruno, Vercel
 | 2025.05.09 <br>~ <br> 2025.05.23    |   [A13C](https://github.com/FRONTENDBOOTCAMP-13th/JS-13-A13C)                                | <데블스플랜: 데스룸>의 ‘하나 빼기’ 룰을 기반으로 제작된 실시간 전략 카드 게임 웹페이지   | FE PL  | Html, Css, JavaScript, Tailwindcss, Typescript, Netlify
 | 2025.03.17 <br>~ <br> 2025.03.25    |   [Web Archive](https://github.com/FRONTENDBOOTCAMP-13th/coding-best)                                | Web Archive   | FE PL  | HTML, CSS, JS
 | 2024.05.12 <br>~ <br> 2024.08.20 (지속적으로 리팩토링 중)      |   [SUCAT](https://github.com/Suwon-University-Community-SUCAT/sucat-front-code)                                | 게임, 친구/채팅을 접목시킨 친목형 대학교 커뮤니티 웹서비스   | FE 팀장  | Html, Css, JavaScript, React <br> Web Socket, WebClient, <br>AWS(EC2, RDS, S3, Route 53, ELB ...)                                                            |
