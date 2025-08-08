@@ -1,4 +1,4 @@
-<img width="1623" height="149" alt="image" src="https://github.com/user-attachments/assets/a2ffcc54-16f6-4de6-bd02-234e31d66f03" />
+
  <div align="center">
     
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JungwooPark&fontSize=28&fontAlign=88&fontAlignY=40&desc=@jungwoo0601&descAlign=91&color=gradient)
